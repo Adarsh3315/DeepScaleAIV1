@@ -1,8 +1,6 @@
-# DeepScale AI: A Safe and Strong Local RAG System 🚀
+# DeepScale R1: A Safe and Strong Local RAG System 🚀
 
-Welcome to **DeepScale AI**, a powerful and secure local Retrieval-Augmented Generation (RAG) system designed to help you interact with your documents in a conversational manner. Built with cutting-edge AI technologies, DeepScale AI allows you to process PDF and text documents, ask questions, and get accurate answers with references to the source material. Whether you're a researcher, student, or professional, DeepScale AI is here to make your document interaction seamless and efficient. 📚🤖
-
----
+Welcome to **DeepScale R1**, a powerful and secure local Retrieval-Augmented Generation system designed to help you interact with your documents in a conversational manner. Built with cutting-edge AI technologies, DeepScale R1 allows you to process PDF and text documents, ask questions, and get accurate answers with references to the source material. Whether you're a researcher, student, or professional, DeepScale R1 is here to make your document interaction seamless and efficient. 📚🤖
 
 ## Features 🌟
 
@@ -11,18 +9,16 @@ Welcome to **DeepScale AI**, a powerful and secure local Retrieval-Augmented Gen
 - **Source References**: Get detailed references to the source material for every answer. 🔍
 - **Local Processing**: All processing is done locally, ensuring data privacy and security. 🔒
 - **Customizable Parameters**: Fine-tune the model's behavior with advanced parameters like temperature, response length, and top-k sampling. 🛠️
-- **GPU Support**: Optimized for GPU acceleration for faster processing.
-
----
+- **GPU Support**: Optimized for GPU acceleration for faster processing. 
 
 ## Installation 🛠️
 
-To get started with DeepScale AI, follow these steps:
+To get started with DeepScale R1, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Adarsh3315/DeepScaleAIV1.git
-   cd DeepScaleAIV1
+   git clone https://github.com/Adarsh3315/DeepScaleR1.git
+   cd DeepScaleR1
    ```
 
 2. **Install Dependencies**:
@@ -32,15 +28,13 @@ To get started with DeepScale AI, follow these steps:
    ```
 
 3. **Run the Application**:
-   Start the DeepScale AI application by running:
+   Start the DeepScale R1 application by running:
    ```bash
    python app.py
    ```
 
 4. **Access the Interface**:
-   Open your web browser and navigate to `http://localhost:7860` to access the DeepScale AI interface.
-
----
+   Open your web browser and navigate to `http://localhost:7860` to access the DeepScale R1 interface.
 
 ## Usage Guide 📚
 
@@ -55,8 +49,6 @@ To get started with DeepScale AI, follow these steps:
 ### Step 3: Start Chatting 💬
 1. **Ask Questions**: Type your question in the input box and press "Submit" or hit Enter.
 2. **View Responses**: The AI will generate a response based on the content of your documents. You can also view the source references for each answer.
-
----
 
 ## Advanced Configuration 🛠️
 
@@ -74,27 +66,19 @@ You can customize the AI model by adjusting the following parameters:
 - **Response Length**: Sets the maximum number of tokens in the generated response.
 - **Top-K Sampling**: Limits the model's sampling to the top-k most likely tokens.
 
----
-
 ## Troubleshooting 🛑
 
 - **File Loading Issues**: Ensure that the uploaded files are in PDF or text format and are not corrupted.
 - **Model Initialization Errors**: Check if your system has sufficient memory and that all dependencies are correctly installed.
 - **Performance Issues**: If the application is slow, consider enabling GPU acceleration or reducing the document size.
 
----
-
 ## Contributing 🤝
 
 We welcome contributions from the community! If you have any suggestions, bug reports, or feature requests, please open an issue on our GitHub repository. For code contributions, feel free to submit a pull request.
 
----
-
 ## License 📝
 
-DeepScale AI is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
+DeepScale R1 is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Acknowledgments 🙏
 
@@ -102,22 +86,16 @@ DeepScale AI is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **Hugging Face**: For the pre-trained models and transformers library.
 - **PyTorch**: For the deep learning framework that powers the AI model.
 
----
-
 ## Contact 📧
 
-For any questions or support, feel free to reach out to us at [support@deepscale.ai](mailto:support@deepscale.ai).
+For any questions or support, feel free to reach out to us at [pandeyadarsh3115@gmail.com](mailto:pandeyadarsh3115@gmail.com).
 
----
+## GitHub Repository and Release Information 📂
 
-## GitHub Repository and Version Information 📂
-
-- **Current GitHub Repository**: [https://github.com/Adarsh3315/DeepScaleAIV1](https://github.com/Adarsh3315/DeepScaleAIV1)
-- **Current Version**: **DeepScale AI V1**
+- **Current GitHub Repository**: [https://github.com/Adarsh3315/DeepScaleR1](https://github.com/Adarsh3315/DeepScaleR1)
+- **Current Release**: **DeepScale R1**
 - **YouTube Demo Video**: [https://youtu.be/TGgFPURzaUQ?feature=shared](https://youtu.be/TGgFPURzaUQ?feature=shared)
 
-As we release new versions of DeepScale AI, we will continue to add them to separate repositories. Stay tuned for updates and new features! 🚀
+As we release new versions of DeepScale R1, we will continue to add them to separate repositories. Stay tuned for updates and new features! 🚀
 
----
-
-Thank you for choosing DeepScale AI! We hope it enhances your document interaction experience. Happy querying! 🎉
+Thank you for choosing DeepScale R1! We hope it enhances your document interaction experience. Happy querying! 🎉
