@@ -1,0 +1,16 @@
+gradio
+torch  # ⚠️ If you have a GPU, comment out this line and uncomment the GPU-enabled PyTorch line below
+torchvision  # ⚠️ If you have a GPU, comment out this line and uncomment the GPU-enabled PyTorch line below
+torchaudio  # ⚠️ If you have a GPU, comment out this line and uncomment the GPU-enabled PyTorch line below
+transformers
+accelerate
+faiss-cpu
+pypdf
+tqdm
+sentence-transformers
+langchain
+langchain-community
+langchain-text-splitters
+bitsandbytes
+# 🔹 GPU Users: Uncomment the line below & comment the three torch lines above
+# torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu126  
